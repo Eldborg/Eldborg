@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eldborg
 - 👀 I’m interested in learning more about blockchain
-- 🌱 I’m currently learning JavaScript and Solidity
+- 🌱 I’m currently learning JavaScript, Python and Solidity
 - 💞️ I’m looking to collaborate on projects involving ICP
 - 📫 How to reach me; just send me an email
 
